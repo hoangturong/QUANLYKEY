@@ -1,5 +1,5 @@
 # QUANLYKEY
-
+# Post: https://www.facebook.com/share/p/19Z3ou425F/
 ## INSTALL
 Tải file cài đặt tại đây: [install.exe](https://github.com/hoangturong/QUANLYKEY/raw/refs/heads/main/install.exe)  
 - Chạy file `install.exe` để cài đặt.  
